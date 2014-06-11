@@ -7,5 +7,6 @@ Learn the GNU Image Manipulation Program!
 ![A cat](http://www.chloesplace.co.uk/kitten-01.jpg)
 ![A cat](http://kiddingkid.com/wp-content/uploads/2013/08/cats.jpg)
 ![A cat](http://lolomoda.com/wp-content/uploads/30192_1600x1200-4-cute-cats.jpg)
+![A cat](http://4.bp.blogspot.com/-ZFFLHgN3hqI/UgJ5_rneGsI/AAAAAAAAApM/Qpa3-KaSqDU/s1600/TTDW+Title.png)
 
 
